@@ -2,7 +2,8 @@
 https://leetcode.com/problems/find-the-duplicate-number/
 https://www.codingninjas.com/studio/problems/find-duplicate-in-array_8230816?challengeSlug=striver-sde-challenge&leftPanelTab=1 */
 
-/* Solution: Was asked do it in one pass(i.e. O(n*n) not allowed) and using constant space, therefore used two pointers approach and found out cycle forming while doing dry run hence was clear to go ahead with the solution */
+/* Solution: Was asked to do it in one pass(i.e. O(n*n) not allowed) and using constant space, therefore used two pointers approach and found out cycle forming
+while doing a dry run hence was clear to go ahead with the solution */
 
 class Solution {
 public:
