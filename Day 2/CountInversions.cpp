@@ -1,7 +1,8 @@
 /* Question Link:
 https://www.codingninjas.com/studio/problems/count-inversions_8230680?challengeSlug=striver-sde-challenge&leftPanelTab=1 */
 
-/* Solution: According to constraints O(n*n) was not allowed, and a big hint was given in the question heading(present in StriversSheet), but still was not able to crack it thanks to Striver and his videos I was able to understand the concept of merge sort even better */
+/* Solution: According to constraints O(n*n) was not allowed, and a big hint was given in the question heading(present in StriversSheet), but still was not
+able to crack it thanks to Striver and his videos I was able to understand the concept of merge sort even better */
 
 #include <bits/stdc++.h> 
 #define ll long long
