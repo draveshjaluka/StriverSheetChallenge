@@ -1,7 +1,8 @@
 /* Question Link: 
 https://leetcode.com/problems/majority-element/ */
 
-//Solution: Asked to do without using extra space, used a simple ans variable to store answer and a counter/flag variable to take action
+/*Solution: Asked to do without using extra space and linear time, looked at it carefully and saw that only one such number is possible hence took a counter
+variable and an element variable and applied the logic of canceling out the count if other numbers were seen */
 
 class Solution {
 public:
