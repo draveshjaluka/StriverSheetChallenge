@@ -1,7 +1,7 @@
 /* Question Link
 https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_8230733?challengeSlug=striver-sde-challenge&leftPanelTab=1 */
 
-/* Solution: was asked to solve in linear time and constant space, therefore, I thought to use the array index as a map and after this, it was pretty straightforward*/
+/* Solution: was asked to solve in linear time and constant space, therefore, I thought to use the array index as a map and after this, it was pretty straightforward */
 
 #include <bits/stdc++.h>
 
