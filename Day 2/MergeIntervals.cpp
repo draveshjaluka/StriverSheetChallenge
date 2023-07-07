@@ -2,7 +2,9 @@
 https://leetcode.com/problems/merge-intervals/description/
 https://www.codingninjas.com/studio/problems/merge-intervals_8230700?challengeSlug=striver-sde-challenge */
 
-/* Was asked to provide in-place solution and in O(n) brute force would have been simple traversing of O(n*n), took a bit of time to think about the solution but got in 3-4 mins Intuition was first sort the given array with reference to the first member of the row and then checking the last member of the current position with the first member of the next position then merge accordingly and update ans when the criteria do not meet */
+/* Was asked to provide in-place solution and in O(n) brute force would have been simple traversing of O(n*n), took a bit of time to think about
+the solution but got in 3-4 mins Intuition was first sort the given array with reference to the first member of the row and then checking the last
+member of the current position with the first member of the next position then merge accordingly and update ans when the criteria do not meet */
 
 class Solution {
 
